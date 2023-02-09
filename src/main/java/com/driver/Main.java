@@ -1,6 +1,6 @@
 package com.driver;
 
- class Main {
+ public class Main {
        class Product{
         public int product(int x, int y) {
              return 1;
@@ -15,7 +15,7 @@ package com.driver;
         }
     }
 
-      void main(String[] args) {
+     public  void main(String[] args) {
         Product p = new Product();
         p.product(3,4);
         p.product(3,4,5);
