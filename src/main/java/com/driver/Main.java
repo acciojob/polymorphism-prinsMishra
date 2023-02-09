@@ -1,7 +1,7 @@
 package com.driver;
 
  class Main {
-      private class Product{
+       class Product{
         public int product(int x, int y) {
              return 1;
         }
